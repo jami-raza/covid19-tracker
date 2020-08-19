@@ -2,7 +2,6 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import BottomNavigation from '@material-ui/core/BottomNavigation';
 import BottomNavigationAction from '@material-ui/core/BottomNavigationAction';
-
 import MultilineChartIcon from '@material-ui/icons/MultilineChart';
 import LanguageIcon from '@material-ui/icons/Language';
 import PublicIcon from '@material-ui/icons/Public';
